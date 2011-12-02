@@ -17,9 +17,11 @@ public class CrearLocale {
     public static void main(String... args){
         String code1 = "es_MX";
         String code2 = "es";
+        String code3 = "en_US";
 
         System.out.println(crearLocale(code1));
         System.out.println(crearLocale(code2));
+        System.out.println(crearLocale(code3));
     }
 
     public static Locale crearLocale(String code){
