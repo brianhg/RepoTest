@@ -8,6 +8,7 @@ package pruebassimples;
 import java.util.Locale;
 
 /**
+ * Prueba simple de un Locale
  *
  * @author alejandro
  */
