@@ -13,7 +13,7 @@ import java.text.MessageFormat;
 public class PruebaMessageFormat {
     
     public static void main(String... args){
-        String pattern = "El campo ''{0}'' en la fila {1} es requerido.";
+        String pattern = "El campo ''{0}'' en la fila {1} no es requerido.";
         MessageFormat mf = new MessageFormat(pattern);
         
         Object[] argsToUse = {"campo  1","campo2"};
