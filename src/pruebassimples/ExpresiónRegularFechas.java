@@ -23,7 +23,7 @@ public class ExpresiónRegularFechas {
         
         System.out.println(matcher1.matches());
         
-        String fl1 = "26/04/1986 10:54:23";
+        String fl1 = "26/04/1982 10:54:23";
 
         Pattern pattern2 = Pattern.compile("^\\d{2}\\/\\d{2}\\/\\d{4} \\d{2}:\\d{2}:\\d{2}$");
 
