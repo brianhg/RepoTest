@@ -6,6 +6,7 @@
 package pruebassimples;
 
 /**
+ * Algunas pruebas sobre strings
  *
  * @author alejandro
  */
